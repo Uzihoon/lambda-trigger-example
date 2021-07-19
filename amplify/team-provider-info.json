@@ -14,8 +14,13 @@
     "categories": {
       "function": {
         "lambdatriggerexampleb4788153PostConfirmation": {
-          "GROUP": "Admin"
+          "GROUP": "Admin",
+          "deploymentBucketName": "amplify-lambdatriggerexample-dev-214309-deployment",
+          "s3Key": "amplify-builds/lambdatriggerexampleb4788153PostConfirmation-4237596f73462f334c68-build.zip"
         }
+      },
+      "auth": {
+        "lambdatriggerexampleb4788153": {}
       }
     }
   }
